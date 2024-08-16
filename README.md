@@ -9,7 +9,7 @@ Tested on Android 14, marble.
 ```shell
 adb shell twrp decrypt [Your password/PIN]
 ```
-If it said that you are not authenticated, then you might not in TWRP currently or your TWRP adbd build is not userdebug. Correct it before continuing.
+If it said that you are not authenticated, then you might not be in TWRP currently, or your TWRP adbd build is not userdebug. Correct it before continuing.
 
 3. Push and install module.
 ```shell
