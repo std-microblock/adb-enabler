@@ -1,5 +1,5 @@
 # ADB Enabler
-This module enables adb for a production build of Android.
+This module enables adb without authentication for a production build of Android.
 
 Tested on Android 14, marble.
 
