@@ -3,7 +3,7 @@ This module enables adb without authentication for a production build of Android
 
 Tested on Android 14, marble.
 
-[Download Module](https://github.com/MicroCBer/adb-enabler/archive/refs/heads/master.zip)
+[Download Module](https://github.com/MicroCBer/adb-enabler/releases/download/latest/adb-enabler.zip)
 
 ## Installation
 1. First, enter TWRP recovery.
