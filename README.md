@@ -3,6 +3,8 @@ This module enables adb for a production build of Android.
 
 Tested on Android 14, marble.
 
+[Download Module](https://github.com/MicroCBer/adb-enabler/archive/refs/heads/master.zip)
+
 ## Installation
 1. First, enter TWRP recovery.
 2. Decrypt data partition:
