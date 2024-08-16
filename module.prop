@@ -1,0 +1,6 @@
+id=adb-enabler
+name=MB ADB Enabler
+version=0.0.0
+versionCode=1
+author=MicroBlock
+description=Enable ADB for a device with broken screen.
